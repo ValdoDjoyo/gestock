@@ -1,0 +1,51 @@
+E:\Projets visual basic\o.g_club\o.g_club\bin\Debug\o.g_club.exe.config
+E:\Projets visual basic\o.g_club\o.g_club\bin\Debug\o.g_club.exe
+E:\Projets visual basic\o.g_club\o.g_club\bin\Debug\o.g_club.pdb
+E:\Projets visual basic\o.g_club\o.g_club\bin\Debug\o.g_club.xml
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.Form1.resources
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.Resources.resources
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.vbproj.GenerateResource.Cache
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.exe
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.xml
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.pdb
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.client.resources
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.depenses.resources
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.dette.resources
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.offrevb.resources
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.stock.resources
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.Dialog_consult_fact.resources
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.Dialog_new_produit.resources
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.Dialog_ravitaillement.resources
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.edit_facture.resources
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.historique.resources
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.liste_factures.resources
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.menu_principal.resources
+E:\Projets visual basic\o.g_club\o.g_club\bin\Debug\MySql.Data.DLL
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.vbprojResolveAssemblyReference.cache
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.parametre.resources
+E:\Projets visual basic\o.g_club\o.g_club\obj\Debug\o.g_club.Dialog_offres.resources
+E:\projets VB\o.g_club\o.g_club\bin\Debug\o.g_club.exe.config
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.exe
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.xml
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.pdb
+E:\projets VB\o.g_club\o.g_club\bin\Debug\o.g_club.exe
+E:\projets VB\o.g_club\o.g_club\bin\Debug\o.g_club.pdb
+E:\projets VB\o.g_club\o.g_club\bin\Debug\o.g_club.xml
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.vbprojResolveAssemblyReference.cache
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.client.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.depenses.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.dette.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.Dialog_consult_fact.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.Dialog_new_produit.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.Dialog_offres.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.Dialog_ravitaillement.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.edit_facture.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.Form1.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.historique.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.liste_factures.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.menu_principal.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.Resources.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.offrevb.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.parametre.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.stock.resources
+E:\projets VB\o.g_club\o.g_club\obj\Debug\o.g_club.vbproj.GenerateResource.Cache
